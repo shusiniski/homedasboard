@@ -1,0 +1,63 @@
+
+/*Helper Classes*/
+.height100
+{
+	height: 40px;
+	background:white;
+}
+
+#home_board{
+
+	background: #d2d2d2;
+}
+.sol{
+
+  height: 100%;
+  background-color: white;
+  padding-left: 40px;
+}
+
+
+
+.sol-icon{
+
+  width: 28px;
+  height: 479px;
+  font-family: FontAwesome;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #d3d3d3;
+  
+}
+
+.div_bg{
+
+	
+	height: 200px;
+	background-color: #ffffff;
+	
+}
+
+.divs{
+
+	
+}
+
+.dateTime
+{
+	height:30px;
+	background: white;
+	border:1px solid white;
+}
+
+.weather
+{
+	height:200px;
+	background: white;
+	margin-right: 6px;
+}
